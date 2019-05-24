@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jcombes/AzurePipelineDemo/_apis/build/status/jcombes.pipelines-java?branchName=master)](https://dev.azure.com/jcombes/AzurePipelineDemo/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
